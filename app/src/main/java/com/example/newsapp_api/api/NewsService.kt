@@ -1,5 +1,6 @@
-package com.example.newsapp_api.ui.theme.api
+package com.example.newsapp_api.api
 
+import com.example.newsapp_api.api.model.SourcesResponse
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query
