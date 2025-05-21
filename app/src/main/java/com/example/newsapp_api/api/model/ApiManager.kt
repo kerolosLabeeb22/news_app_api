@@ -1,5 +1,6 @@
-package com.example.newsapp_api.ui.theme.api
+package com.example.newsapp_api.api.model
 
+import com.example.newsapp_api.api.NewsService
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
